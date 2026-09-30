@@ -9,7 +9,7 @@ Ce code se concentre sur des codes qui utilisent les switch et les if de manièr
 ## Installer le code
 ```
 git clone <lien-de-clone-du-repo>
-cd Refractoring
+cd refactoring_switch_statements
 pip install -r requirements.txt
 ```
 

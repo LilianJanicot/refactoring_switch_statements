@@ -1,6 +1,6 @@
 # Refactoring : switch statements
 
-[Idée initiale](https://refactoring.guru/smells/switch-statements)
+Refactoring.guru, switch-statements : [lien](https://refactoring.guru/smells/switch-statements)
 
 Le refactoring consiste à réécrire un code qui effectue une fonction pour qu'il soit plus lisible tout en effectuant la même fonction.
 
@@ -19,6 +19,7 @@ Dans votre terminal : `pytest` pour lancer les tests du fichier test_refactoring
 Dans le fichier test_refactoring.py :
 - `test_original_parler()` lance le test sur le code "de if abusif"
 - `test_refactored_parler()` lance le test sur le code refactored
+On voit que les tests sont identiques et se passent tous les deux.
 
 Le fichier main.py contient la fonction de "if abusif"
 
